@@ -1,0 +1,14 @@
+.list{
+    background-color: yellow;
+}
+
+.item{
+    background-color: pink;
+}
+
+.special-element{
+    color: red;
+    background-color: blue;
+    size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
